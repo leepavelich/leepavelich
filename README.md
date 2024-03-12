@@ -2,8 +2,8 @@
 
 # Full-Stack Web Developer
 
-* 🌍  I am from in Edmonton, AB
-* 🧠  Currently depending my CS knowledge of data structures and working on an interpreter
+* 🌍  I am from Edmonton, AB
+* 🧠  Currently deepening my CompSci knowledge of [data structures](https://frontendmasters.com/courses/algorithms/) and working on [an interpreter](https://github.com/leepavelich/interpreter-ts)
 * 🖥️  My portfolio [hosted on Vercel](https://leepavelich.vercel.app/)
 * 📄  My resume [hosted on Flow](https://resume.creddle.io/resume/5wh3kh8ktcc](https://flowcv.com/resume/jv3t6wacj3))
 * 📧  Contact me at [leepavelich@gmail.com](mailto:leepavelich@gmail.com)
